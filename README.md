@@ -16,15 +16,15 @@ It uses Firebase Realtime Database as well as the Firebase authentication packag
 
 ## Screenshots
   
-<img src="https://github.com/iprathamjain/Blogger-Project/blob/master/ScreenShot/login_page.png" >
+<img src="https://github.com/iprathamjain/Blogger-Project/blob/main/ScreenShot/login_page.png" >
 <br/><br/>
-<img src="https://github.com/iprathamjain/Blogger-Project/blob/master/ScreenShot/home_page.png" >
+<img src="https://github.com/iprathamjain/Blogger-Project/blob/main/ScreenShot/home_page.png" >
 <br/><br/>
-<img src="https://github.com/iprathamjain/Blogger-Project/blob/master/ScreenShot/create_page.png" >
+<img src="https://github.com/iprathamjain/Blogger-Project/blob/main/ScreenShot/create_page.png" >
 <br/><br/>
-<img src="https://github.com/iprathamjain/Blogger-Project/blob/master/ScreenShot/details_page.png" >
+<img src="https://github.com/iprathamjain/Blogger-Project/blob/main/ScreenShot/details_page.png" >
 <br/><br/>
-<img src="https://github.com/iprathamjain/Blogger-Project/blob/master/ScreenShot/edit_mode.png" >
+<img src="https://github.com/iprathamjain/Blogger-Project/blob/main/ScreenShot/edit_mode.png" >
 
 ## Local Environment Setup
 - Clone repository by running this command on git-bash
